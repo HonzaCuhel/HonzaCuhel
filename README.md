@@ -6,7 +6,7 @@ Currently: AI Engineer at **[Finviz](https://finviz.com)** · Research collabora
 
 ### What I work on
 
-**Multi-agent failure modes.** Frontier LLM agents put in game-theoretic settings do things you cannot predict from single-agent evals: collusion, task-splitting to evade monitors, strategy shifts under stakes. I build sandboxed testbeds that measure this before deployment, not after.
+**Multi-agent failure modes.** Frontier LLM agents put in game-theoretic settings do things you cannot predict from single-agent evals: collusion, task-splitting to evade monitors, strategy shifts under stakes. I helped to build sandboxed testbeds that measure this before deployment, not after.
 
 **AI products from zero to production.** First employee at a pre-seed startup, where I owned the AI stack, the backend, the GCP pipelines, and the CI/CD through the funding round. I know what breaks between a demo and a system people depend on.
 
