@@ -35,6 +35,8 @@ Local-first speech-to-text for macOS. Czech and English, mixed freely, on-device
 
 ### For fun
 
+**[Lunacrust](https://github.com/HonzaCuhel/Lunacrust)** · my open-source voxel adventure across eight worlds, with Survival, Creative and desktop LAN co-op. [Play the browser demo](https://honzacuhel.github.io/Lunacrust/demo/).
+
 **[ASCII Avatar](https://pixel-ascii-magic.lovable.app/)** · drop in a photo, get an ASCII portrait back.
 
 ### Publications
