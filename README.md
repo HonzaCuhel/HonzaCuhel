@@ -12,15 +12,15 @@ Currently: AI Engineer at **[Finviz](https://finviz.com)** · Research collabora
 
 ### Selected work
 
-**[Repo Visualizer](https://honzacuhel.github.io/repo-visualizer/?lang=en&theme=light)**
-An open skill for Codex and Claude Code that explains repositories through interactive component graphs with source references. Export explanations as HTML, GIFs, and videos. [Source & installation](https://github.com/HonzaCuhel/repo-visualizer).
-
 **[Towards Predictive Models of Strategic Behaviour in LLM Agents](https://openreview.net/forum?id=PpRrEWt9yK)**
 200,000+ decisions by frontier models across game-theoretic scenarios. Cooperation rates for an unseen model become predictable (R² = 0.51) from 5 to 10 calibration scenarios, so roughly 10% of the data captures 88% of the maximum predictive gain.
 *Spotlight, ICML 2026 AI4GOOD · Outstanding Paper, Cooperative AI Foundation*
 
 **[Alquist 5.0](https://doi.org/10.3390/fi16090344)**
 Dialogue trees meet generative models. The socialbot that took 3rd place globally in Amazon's Alexa Prize SocialBot Grand Challenge 5. I co-captained the team.
+
+**[Repo Visualizer](https://honzacuhel.github.io/repo-visualizer/?lang=en&theme=light)**
+An open skill for Codex and Claude Code that explains repositories through interactive component graphs with source references. Export explanations as HTML, GIFs, and videos. [Source & installation](https://github.com/HonzaCuhel/repo-visualizer).
 
 **[Vocaret](https://github.com/HonzaCuhel/vocaret)**
 Local-first speech-to-text for macOS. Czech and English, mixed freely, on-device by default. Swift and Apple Silicon.
